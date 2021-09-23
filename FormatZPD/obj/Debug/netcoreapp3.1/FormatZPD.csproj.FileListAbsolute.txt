@@ -1,0 +1,52 @@
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\Client\package.json
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\FormatZPD.exe
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\FormatZPD.deps.json
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\FormatZPD.runtimeconfig.json
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\FormatZPD.runtimeconfig.dev.json
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\FormatZPD.dll
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\FormatZPD.pdb
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\Neo4j.Driver.dll
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.csprojAssemblyReference.cache
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.AssemblyInfoInputs.cache
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.AssemblyInfo.cs
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.csproj.CoreCompileInputs.cache
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\staticwebassets\FormatZPD.StaticWebAssets.Manifest.cache
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\staticwebassets\FormatZPD.StaticWebAssets.xml
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\scopedcss\bundle\FormatZPD.styles.css
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.RazorTargetAssemblyInfo.cache
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.csproj.CopyComplete
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.dll
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.pdb
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.genruntimeconfig.cache
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\Client\package.json
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\Client\package-lock.json
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\FormatZPD.exe
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\FormatZPD.deps.json
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\FormatZPD.runtimeconfig.json
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\FormatZPD.runtimeconfig.dev.json
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\FormatZPD.dll
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\FormatZPD.pdb
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\Neo4j.Driver.dll
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.csprojAssemblyReference.cache
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.AssemblyInfoInputs.cache
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.AssemblyInfo.cs
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\staticwebassets\FormatZPD.StaticWebAssets.Manifest.cache
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\staticwebassets\FormatZPD.StaticWebAssets.xml
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\scopedcss\bundle\FormatZPD.styles.css
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.RazorTargetAssemblyInfo.cache
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.csproj.CopyComplete
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.dll
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.pdb
+C:\Users\Maria\source\NF28\Git depot NF28\formatzpd\FormatZPD\obj\Debug\netcoreapp3.1\FormatZPD.genruntimeconfig.cache
+C:\Users\Juliette\source\repos\formatzpd\FormatZPD\bin\Debug\netcoreapp3.1\Client\package-lock.json

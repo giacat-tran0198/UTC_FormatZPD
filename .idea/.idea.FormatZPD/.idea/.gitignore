@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.FormatZPD.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../:\utc\nf28\formatzpd\.idea\.idea.FormatZPD\.idea/dataSources/
+/dataSources.local.xml
